@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">uno</string>
+    <string name="password">password</string>
+    <string name="invia">Invia</string>
+    <string name="email">email</string>
+    <string name="esci">Esci</string>
+</resources>
